@@ -1,4 +1,4 @@
-# tkinter Rock paper scissors
+# tkinter rock paper scissors
 A rock, paper, scissors game made with tkinter.
 
 Usage
